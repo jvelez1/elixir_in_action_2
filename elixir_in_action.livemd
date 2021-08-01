@@ -1,0 +1,9 @@
+# Elixir in action 2
+
+## Hello World!
+
+This is a test from live view
+
+```elixir
+IO.inspect("Hello world!")
+```
